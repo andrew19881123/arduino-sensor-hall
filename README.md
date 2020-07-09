@@ -1,1 +1,1 @@
-# arduino-ble-cycling-csc-measurement
+# arduino-sensor-hall
